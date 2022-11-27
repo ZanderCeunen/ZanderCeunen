@@ -23,5 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zanderceunen&show_icons=true&locale=en" alt="zanderceunen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zanderceunen&" alt="zanderceunen" /></p>
-![](https://komarev.com/ghpvc/?ZanderCeunen)
-
+<p><img align="left" src="https://komarev.com/ghpvc/?ZanderCeunen" alt="zanderceunen" /></p>
