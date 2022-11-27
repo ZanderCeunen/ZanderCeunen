@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zanderceunen&show_icons=true&locale=en" alt="zanderceunen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zanderceunen&" alt="zanderceunen" /></p>
-<p><img align="left" src="https://komarev.com/ghpvc/?ZanderCeunen" alt="zanderceunen" /></p>
+![Visitor Count](https://profile-counter.glitch.me/{ZanderCeunen}/count.svg)
