@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ZanderCeunen@protonmail.com**
 
-- Nice projects I'm helping with: [Movie-Web](https://movie-web.app/) 
+- Nice projects: [Movie-Web](https://movie-web.app/) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
