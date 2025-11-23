@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ZanderCeunen</h1>
 <h3 align="center">A passionate developer from Belgium.</h3>
 
-- 🔭 I’m currently working on [All kind of python scripts](https://github.com/ZanderCeunen/Python-projects)
+- 🔭 I’m currently working on [All kind of python scripts](https://github.com/ZanderCeunen/Python-projects) and the [What's Next Media site](https://www.whatsnextmedia.be)
 
-- 🌱 I’m currently learning **Java, revision python**
+- 🌱 I’m currently learning **flutter, revision java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZanderCeunen](https://github.com/ZanderCeunen)
 
-- 💬 Ask me about **Python and html**
+- 💬 Ask me about **Python and Web3 and Flutter**
 
 - 📫 How to reach me **ZanderCeunen@protonmail.com**
 
