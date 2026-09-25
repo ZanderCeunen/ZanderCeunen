@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm ZanderCeunen</h1>
 <h3 align="center">A passionate developer from Belgium.</h3>
 
-- 🔭 I’m currently working on [All kind of python scripts](https://github.com/ZanderCeunen/Python-projects) and the [What's Next Media site](https://www.whatsnextmedia.be)
+- 🔭 I’m currently working on [All kind of python scripts](https://github.com/ZanderCeunen/Python-projects) and the [What's Next Media systems as a jobstudent](https://www.whatsnextmedia.be)
 
 - 🌱 I’m currently learning **flutter, revision java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZanderCeunen](https://github.com/ZanderCeunen)
 
-- 💬 Ask me about **Python and Web3 and Flutter**
+- 💬 Ask me about **Rust, web and flutter**
 
 - 📫 How to reach me **ZanderCeunen@protonmail.com**
-
-- Nice projects: [Movie-Web](https://movie-web.app/) 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
